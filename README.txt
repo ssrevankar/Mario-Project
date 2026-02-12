@@ -1,13 +1,8 @@
-Lisa Hisamura
-2375817
-hisamura@chapman.edu
+Saniya Revankar
 CPSC350-01
 Programming Assignment 2 Mario
 
-Submitted Source Files:
-
-
-Errors:
+Errors: No known errors
 
 References: Worked with Saniya Revankar. Received help from Alan Lu, 
 https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/
